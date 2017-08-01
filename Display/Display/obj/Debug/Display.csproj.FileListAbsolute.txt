@@ -1,0 +1,7 @@
+E:\ComputerScienceProjects\C#\2017\Display\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\ComputerScienceProjects\C#\2017\Display\Display\bin\Debug\Display.dll
+E:\ComputerScienceProjects\C#\2017\Display\Display\bin\Debug\Display.pdb
+E:\ComputerScienceProjects\C#\2017\Display\Display\obj\Debug\Display.dll
+E:\ComputerScienceProjects\C#\2017\Display\Display\obj\Debug\Display.pdb
+E:\ComputerScienceProjects\C#\2017\Display\Display\bin\Debug\Display.dll.CodeAnalysisLog.xml
+E:\ComputerScienceProjects\C#\2017\Display\Display\bin\Debug\Display.dll.lastcodeanalysissucceeded
